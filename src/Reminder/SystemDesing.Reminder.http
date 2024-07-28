@@ -1,0 +1,6 @@
+@SystemDesing.Reminder_HostAddress = http://localhost:5142
+
+GET {{SystemDesing.Reminder_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
